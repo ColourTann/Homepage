@@ -1,0 +1,33 @@
+body{
+  margin: auto;
+  margin-top: 30px;
+  width: 640px;
+  background-color: #ddffff;
+}
+
+img{
+	display: block;
+}
+
+.spoiler{ 
+	text-align: center;
+  color: black; 
+  background-color:black;
+  font-size: 20px;
+}
+
+.spoiler:hover{
+  color: black;
+   background-color:white; 
+}
+
+.container{
+  display: inline-block;
+}
+
+.image_container{
+	margin-bottom: 20px;
+}
+.text{
+	font-size: 30px;
+}
